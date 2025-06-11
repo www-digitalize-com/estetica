@@ -1057,7 +1057,7 @@ body {
 .faq {
   /* background-color: #1b5eb7; */
   background: #cdb321;
-  background: linear-gradient(100deg, #093a79 0%, rgba(27,94,183,1) 100%);
+  background: linear-gradient(100deg, #093a79 0%, rgba(54, 57, 61) 100%);
 }
 
 .faq-content {
